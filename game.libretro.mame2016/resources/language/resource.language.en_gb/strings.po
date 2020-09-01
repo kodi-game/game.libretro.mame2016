@@ -45,33 +45,37 @@ msgid "Enable cheats"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Media type"
+msgid "Main CPU Overclock"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Enable in-game mouse"
+msgid "Media type"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Read configuration"
+msgid "Enable in-game mouse"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Save state naming"
+msgid "Read configuration"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Softlist automatic media type"
+msgid "Save state naming"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Enable softlists"
+msgid "Softlist automatic media type"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Enable throttle"
+msgid "Enable softlists"
 msgstr ""
 
 msgctxt "#30014"
+msgid "Enable throttle"
+msgstr ""
+
+msgctxt "#30015"
 msgid "Write configuration"
 msgstr ""
