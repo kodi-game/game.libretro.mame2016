@@ -15,7 +15,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Arcade (MAME 2016) 0.174</summary>
-		<description lang="en_GB">Supported files: .zip, .chd, .7z, .cmd</description>
+		<description lang="en_GB">Late 2016 version of MAME (0.174) for libretro. Compatible with MAME 0.174 sets.
+
+Supported files: .zip, .chd, .7z, .cmd</description>
 		<license>GPLv2+</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mame2016</source>
