@@ -1,1 +1,1 @@
-mame2016 https://github.com/libretro/mame2016-libretro/archive/d53c379892b0bd91b4a52fc2de491e1199f03e32.zip
+mame2016 https://github.com/libretro/mame2016-libretro/archive/d53c379892b0bd91b4a52fc2de491e1199f03e32.tar.gz
