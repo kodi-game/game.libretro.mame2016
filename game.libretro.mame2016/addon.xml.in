@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Arcade (MAME 2016) 0.174</summary>
+		<description lang="da_DK">Sen 2016-version af MAME (0.174) til libretro. Kompatibel med MAME 0.174 sæt.</description>
 		<description lang="en_GB">Late 2016 version of MAME (0.174) for libretro. Compatible with MAME 0.174 sets.</description>
 	</extension>
 </addon>
