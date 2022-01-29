@@ -1,0 +1,31 @@
+From 9bd9f9b9d69bad96d9c5ee8b949ed372efdd11ec Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Sat, 29 Jan 2022 11:28:56 -0800
+Subject: [PATCH] Fix build
+
+Error was:
+
+  Traceback (most recent call last):
+    File "scripts/build/msgfmt.py", line 116, in generate
+      output += array.array("i", offsets).tobytes()
+  AttributeError: 'array.array' object has no attribute 'tobytes'
+---
+ scripts/build/msgfmt.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/scripts/build/msgfmt.py b/scripts/build/msgfmt.py
+index 97d30f4c08..fe3f19a8a3 100644
+--- a/scripts/build/msgfmt.py
++++ b/scripts/build/msgfmt.py
+@@ -113,7 +113,7 @@ def generate():
+                          7*4+len(keys)*8,   # start of value index
+                          0, 0)              # size and offset of hash table
+     if sys.version_info[1] >= 2:
+-        output += array.array("i", offsets).tobytes()
++        output += array.array("i", offsets).tostring()
+     else:
+         output += array.array("i", offsets).tostring()
+     output += ids
+-- 
+2.30.2
+
