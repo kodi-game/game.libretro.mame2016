@@ -13,7 +13,7 @@ GPLv2+
 
 ### Icon
 
-![Icon](game.libretro.mame2016/resources/icon.png)
+![Arcade (MAME 2016) icon](game.libretro.mame2016/resources/icon.png)
 
 ### Fanart
 
