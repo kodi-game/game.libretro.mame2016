@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME 2016) 0.174"
+msgid "Arcade (MAME 2016)"
 msgstr ""
 
 msgctxt "Addon Description"

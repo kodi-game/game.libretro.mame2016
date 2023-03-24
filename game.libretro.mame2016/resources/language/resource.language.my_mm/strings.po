@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME 2016) 0.174"
+msgid "Arcade (MAME 2016)"
 msgstr ""
 
 msgctxt "Addon Description"
