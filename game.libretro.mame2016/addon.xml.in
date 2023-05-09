@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Arcade (MAME 2016)</summary>
 		<summary lang="en_GB">Arcade (MAME 2016)</summary>
 		<summary lang="es_ES">Arcade (MAME 2016)</summary>
 		<description lang="da_DK">Sen 2016-version af MAME (0.174) til libretro. Kompatibel med MAME 0.174 sæt.</description>
