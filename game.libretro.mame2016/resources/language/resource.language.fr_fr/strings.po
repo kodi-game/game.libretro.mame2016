@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Late 2016 version of MAME (0.174) for libretro. Compatible with MAME 0.174 sets."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Paramètres"
-
 msgctxt "#30001"
 msgid "Read configuration"
 msgstr "Lire la configuration"
@@ -88,3 +84,7 @@ msgstr ""
 msgctxt "#30015"
 msgid "Boot from CLI"
 msgstr "Démarrage à partir de la CLI"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
