@@ -30,6 +30,6 @@
 		<description lang="en_GB">Late 2016 version of MAME (0.174) for libretro. Compatible with MAME 0.174 sets.</description>
 		<description lang="es_ES">Versión de finales de 2016 de MAME (0.174) para libretro. Compatible con los juegos de MAME 0.174.</description>
 		<description lang="zh_CN">2016 年末 libretro 版本的 MAME（0.174）。兼容 MAME 0.174。</description>
-		<lifecyclestate type="broken" lang="en_GB">MAME 2016 hasn&apos;t been updated since 2022 and is no longer available for use in Kodi.</lifecyclestate>
+		<lifecyclestate type="broken" lang="en_GB">MAME 2016 hasn&amp;apos;t been updated since 2022 and is no longer available for use in Kodi.</lifecyclestate>
 	</extension>
 </addon>

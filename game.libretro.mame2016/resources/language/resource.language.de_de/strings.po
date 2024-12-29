@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Late 2016 version of MAME (0.174) for libretro. Compatible with MAME 0.174 sets."
 msgstr "Späte 2016er Version von MAME (0.174) für libretro. Kompatibel mit MAME 0.174 Sets."
 
+msgctxt "Addon Lifecyclestate"
+msgid "MAME 2016 hasn't been updated since 2022 and is no longer available for use in Kodi."
+msgstr ""
+
 msgctxt "#30001"
 msgid "Read configuration"
 msgstr "Konfiguration lesen"
