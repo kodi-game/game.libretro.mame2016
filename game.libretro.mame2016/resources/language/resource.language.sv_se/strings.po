@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mame2016\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-09-02 19:57i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mame2016/sv_se/>\n"
 "Language: sv_se\n"
@@ -31,7 +31,7 @@ msgstr "MAME 2016 har inte uppdaterats sedan 2022 och är inte längre tillgäng
 
 msgctxt "#30001"
 msgid "Read configuration"
-msgstr ""
+msgstr "Läs konfiguration"
 
 msgctxt "#30002"
 msgid "Write configuration"
