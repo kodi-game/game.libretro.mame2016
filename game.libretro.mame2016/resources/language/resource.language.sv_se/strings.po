@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mame2016\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-09-02 19:57i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mame2016/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Arcade (MAME 2016)"
@@ -37,57 +37,62 @@ msgctxt "#30002"
 msgid "Write configuration"
 msgstr "Skriv konfiguration"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "Save state naming"
-msgstr ""
+msgstr "Spara namngivning av stater"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Auto save/load states"
-msgstr ""
+msgstr "Automatisk lagring/laddning av tillstånd"
 
 msgctxt "#30005"
 msgid "Enable in-game mouse"
-msgstr ""
+msgstr "Aktivera mus i spelet"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Enable throttle"
-msgstr ""
+msgstr "Aktivera gasreglage"
 
 msgctxt "#30007"
 msgid "Enable cheats"
-msgstr ""
+msgstr "Aktivera fusk"
 
 msgctxt "#30008"
 msgid "Main CPU Overclock"
-msgstr ""
+msgstr "Överklockning av huvudprocessor"
 
 msgctxt "#30009"
 msgid "Alternate render method"
-msgstr ""
+msgstr "Alternativ renderingsmetod"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Enable softlists"
-msgstr ""
+msgstr "Aktivera softlists"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Softlist automatic media type"
-msgstr ""
+msgstr "Softlist automatisk mediatyp"
 
 msgctxt "#30012"
 msgid "Media type"
-msgstr ""
+msgstr "Mediatyp"
 
 msgctxt "#30013"
 msgid "Boot to BIOS"
-msgstr ""
+msgstr "Starta till BIOS"
 
 msgctxt "#30014"
 msgid "Boot to OSD"
-msgstr ""
+msgstr "Starta till OSD"
 
 msgctxt "#30015"
 msgid "Boot from CLI"
-msgstr ""
+msgstr "Starta från CLI"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
