@@ -35,5 +35,6 @@
 		<lifecyclestate type="broken" lang="en_GB">MAME 2016 hasn&apos;t been updated since 2022 and is no longer available for use in Kodi.</lifecyclestate>
 		<lifecyclestate type="broken" lang="es_ES">MAME 2016 no ha sido actualizado desde 2022 y ya no está disponible para su uso en Kodi.</lifecyclestate>
 		<lifecyclestate type="broken" lang="sv_SE">MAME 2016 har inte uppdaterats sedan 2022 och är inte längre tillgänglig för användning i Kodi.</lifecyclestate>
+		<lifecyclestate type="broken" lang="zh_CN">MAME 2016 自 2022 年以来就没有更新过，现在已无法在 Kodi 中使用。</lifecyclestate>
 	</extension>
 </addon>
