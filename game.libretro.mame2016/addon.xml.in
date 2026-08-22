@@ -26,6 +26,7 @@
 		<summary lang="en_GB">Arcade (MAME 2016)</summary>
 		<summary lang="es_ES">Arcade (MAME 2016)</summary>
 		<summary lang="ga">Arcade (MAME 2016)</summary>
+		<summary lang="it_IT">Arcade (MAME 2016)</summary>
 		<summary lang="ru_RU">Аркада (MAME 2016)</summary>
 		<summary lang="sv_SE">Arcade (MAME 2016)</summary>
 		<summary lang="zh_CN">街机（MAME 2016）</summary>
@@ -35,6 +36,7 @@
 		<description lang="en_GB">Late 2016 version of MAME (0.174) for libretro. Compatible with MAME 0.174 sets.</description>
 		<description lang="es_ES">Versión de finales de 2016 de MAME (0.174) para libretro. Compatible con los juegos de MAME 0.174.</description>
 		<description lang="ga">Leagan déanach 2016 de MAME (0.174) do libretro. Comhoiriúnach le tacair MAME 0.174.</description>
+		<description lang="it_IT">Versione di fine 2016 di MAME (0.174) per libretro. Compatibile con i set MAME 0.174.</description>
 		<description lang="ru_RU">Версия MAME конца 2016 года (0.174) для libretro. Совместима с наборами MAME 0.174.</description>
 		<description lang="sv_SE">Sen 2016-version av MAME (0.174) för libretro. Kompatibel med MAME 0.174-uppsättningar.</description>
 		<description lang="zh_CN">2016 年末 libretro 版本的 MAME（0.174）。兼容 MAME 0.174。</description>
@@ -42,6 +44,7 @@
 		<lifecyclestate type="broken" lang="en_GB">MAME 2016 hasn&apos;t been updated since 2022 and is no longer available for use in Kodi.</lifecyclestate>
 		<lifecyclestate type="broken" lang="es_ES">MAME 2016 no ha sido actualizado desde 2022 y ya no está disponible para su uso en Kodi.</lifecyclestate>
 		<lifecyclestate type="broken" lang="ga">Níor nuashonraíodh MAME 2016 ó 2022 agus níl sé ar fáil a thuilleadh lena úsáid i Kodi.</lifecyclestate>
+		<lifecyclestate type="broken" lang="it_IT">MAME 2016 non viene aggiornato dal 2022 e non è più disponibile per l&apos;uso in Kodi.</lifecyclestate>
 		<lifecyclestate type="broken" lang="ru_RU">MAME 2016 не обновлялся с 2022 года и больше недоступен для использования в Kodi.</lifecyclestate>
 		<lifecyclestate type="broken" lang="sv_SE">MAME 2016 har inte uppdaterats sedan 2022 och är inte längre tillgänglig för användning i Kodi.</lifecyclestate>
 		<lifecyclestate type="broken" lang="zh_CN">MAME 2016 自 2022 年以来就没有更新过，现在已无法在 Kodi 中使用。</lifecyclestate>
